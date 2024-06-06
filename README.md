@@ -1,4 +1,4 @@
-# Prepare ypur data with Pandas 
+# Prepare your data with Pandas 
 
 Data prepration is very important step in many application in this example we are aiming to prepare our data for seq2seq model training.
 
