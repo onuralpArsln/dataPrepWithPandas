@@ -14,3 +14,7 @@ csv file is poory structured so it will help us better understand methods.
 
 
 For data augmentation and ai training separte repos will be shared.
+
+
+
+Text Data Augmentation repo -> https://github.com/onuralpArsln/AugmentTextData
